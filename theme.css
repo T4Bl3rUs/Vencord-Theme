@@ -9,13 +9,13 @@
 @import url("https://nyri4.github.io/LilyPichu/main.css");
 
 /* Remove decorations */
-@import url("https://nyri4.github.io/LilyPichu/stuff/overlay.css");
+/*@import url("https://nyri4.github.io/LilyPichu/stuff/overlay.css");*/
 
 :root {
     /* --- User variables --- */
 
     /* Jumping GIF */
-    --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
+    --jumping-gif: url("https://i.pinimg.com/originals/97/e9/42/97e942ce7fc4e9d4ea6d844a382f251f.gif");
 
     /* Background (if you want an image replace it by : 
 --background-tertiary-alt: url("image-link"); without that => */
